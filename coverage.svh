@@ -1,0 +1,6 @@
+class coverage;
+
+
+
+
+endclass : coverage
