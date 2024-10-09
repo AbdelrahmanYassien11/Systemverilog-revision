@@ -12,221 +12,45 @@ R0
 R0
 R0
 R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-R0
-!s11f MIXED_VERSIONS
+!s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
 !i10d 8192
 !i10e 25
 !i10f 100
 cModel Technology
-Z1 dF:/ic_design/repos/systemverilog_revision/fifo
+Z1 dF:/ic_design/repos/systemverilog_revision
 T_opt
-Z2 !s11d synchronous_fifo_pkg F:/ic_design/repos/systemverilog_revision/fifo/work 1 inf 1 F:/ic_design/repos/systemverilog_revision/fifo/work 
-!s110 1728313975
-VO=ZY<;`LbCZDVzJ@WUQgY3
-04 2 4 work tb fast 0
-=4-98e743467fb1-6703fa76-35e-3fb0
-Z3 !s124 OEM100
-Z4 o-quiet -auto_acc_if_foreign -work work +acc
-Z5 tCvgOpt 0
+!s110 1728269770
+VoWUL@XRPnVc;?2D3bKEVR1
+04 8 4 work practice fast 0
+=7-98e743467fb1-67034dca-f-ce0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
 n@_opt
-Z6 OL;O;2021.1;73
+OL;O;2021.1;73
+vpractice
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1728269762
+!i10b 1
+!s100 eO62NTAn?`D0c`m2S`oK=0
+If`H=e]C;HKRaViZfFT:Un0
+S1
 R1
-T_opt1
+w1728269761
+8practice.sv
+Fpractice.sv
+!i122 11
+L0 1 36
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1728269762.000000
+!s107 practice.sv|
+!s90 practice.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R2
-!s110 1728389194
-VNih^RnYN2ji^8Y9[TEmPe3
-Z7 04 7 4 work fifo_tb fast 0
-=1-98e743467fb1-67052048-1-4b24
-R3
-R4
-R5
-n@_opt1
-R6
-R1
-T_opt2
-R2
-!s110 1728398519
-VATSPbP]IzzmahzJboXJhK1
-R7
-=12-98e743467fb1-670544b7-83-28a8
-R3
-R4
-R5
-n@_opt2
-R6
-R1
-T_opt3
-R2
-!s110 1728420374
-VYf30EMNI:XnYXzz?U6<XA2
-R7
-=1-98e743467fb1-67059a12-377-540c
-R3
-R4
-R5
-n@_opt3
-R6
-Xcoverage_svh_unit
-Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-!s110 1728312059
-VF>CPBXQ_:YYMgE>=4JoKA1
-r1
-!s85 0
-!i10b 1
-!s100 ^[52]]WgQWeA0mz8c<RLG3
-IF>CPBXQ_:YYMgE>=4JoKA1
-!i103 1
-S1
-R1
-w1728274456
-8coverage.svh
-Z9 Fcoverage.svh
-!i122 8
-Z10 L0 1 0
-Z11 OL;L;2021.1;73
-31
-!s108 1728312059.000000
-!s107 test.svh|synchronous_fifo_pkg.svh|scoreboard.svh|item.svh|fifo_interface.svh|coverage.svh|
-!s90 coverage.svh|fifo_interface.svh|item.svh|scoreboard.svh|synchronous_fifo_pkg.svh|test.svh|
-!i113 0
-Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R5
-vfifo_tb
-R8
-Z13 DXx4 work 20 synchronous_fifo_pkg 0 22 W<nBaKT[goDbIHFNhQ3k32
-Z14 !s110 1728420359
-!i10b 1
-!s100 BD`om:TOzdUAgDkfn3i132
-IX;jGD=53:D`RAJ3G3^HmB2
-S1
-R1
-w1728408666
-Z15 8fifo_tb.sv
-Z16 Ffifo_tb.sv
-!i122 101
-L0 1 47
-Z17 VDg1SIo80bB@j0V0VzS_@n1
-R11
-r1
-!s85 0
-31
-Z18 !s108 1728420359.000000
-Z19 !s107 coverage.svh|scoreboard.svh|test.svh|item.svh|fifo_tb.sv|fifo_interface.svh|synchronous_fifo_pkg.svh|
-Z20 !s90 -reportprogress|300|-f|tb.f|
-!i113 0
-R12
-R5
-Yinf
-R8
-R13
-R14
-!i10b 1
-!s100 aIgVbVai:1SB=Nd?<Vm4X0
-I2z?k9biDD?@z0SXkYX@TT3
-S1
-R1
-w1728389466
-8fifo_interface.svh
-Ffifo_interface.svh
-!i122 101
-R10
-R17
-R11
-r1
-!s85 0
-31
-R18
-R19
-R20
-!i113 0
-R12
-R5
-vsynchronous_fifo
-R14
-!i10b 1
-!s100 3dJ;;FSKRCfz[ja99T3F81
-Im>QdHG^6OOfIXK`9bYmP62
-R1
-w1728408325
-8synchronous_fifo.v
-Fsynchronous_fifo.v
-!i122 100
-L0 1 55
-R17
-R11
-r1
-!s85 0
-31
-R18
-!s107 synchronous_fifo.v|
-!s90 -reportprogress|300|-f|dut.f|
-!i113 0
-R12
-R5
-Xsynchronous_fifo_pkg
-!s115 inf
-R8
-R14
-!i10b 1
-!s100 58<4TT?UiTgdogKFm`1TZ1
-IW<nBaKT[goDbIHFNhQ3k32
-S1
-R1
-w1728420356
-8synchronous_fifo_pkg.svh
-Fsynchronous_fifo_pkg.svh
-Fitem.svh
-Ftest.svh
-Fscoreboard.svh
-R9
-!i122 101
-R10
-VW<nBaKT[goDbIHFNhQ3k32
-R11
-r1
-!s85 0
-31
-R18
-R19
-R20
-!i113 0
-R12
-R5
-vtb
-R8
-DXx4 work 20 synchronous_fifo_pkg 0 22 ZB2ROc_TI76X3PUkN;DPC1
-!s110 1728313806
-!i10b 1
-!s100 fid9@[J54TDf9oj0;MEoN3
-I<J6Ai3IN;c@Z?4COCL3in1
-S1
-R1
-w1728313805
-R15
-R16
-!i122 12
-L0 1 38
-R17
-R11
-r1
-!s85 0
-31
-!s108 1728313805.000000
-!s107 fifo_tb.sv|
-!s90 fifo_tb.sv|
-!i113 0
-R12
-R5

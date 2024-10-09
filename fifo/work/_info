@@ -1,0 +1,261 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dF:/ic_design/repos/systemverilog_revision/fifo
+T_opt
+Z2 !s11d synchronous_fifo_pkg F:/ic_design/repos/systemverilog_revision/fifo/work 1 inf 1 F:/ic_design/repos/systemverilog_revision/fifo/work 
+!s110 1728313975
+VO=ZY<;`LbCZDVzJ@WUQgY3
+04 2 4 work tb fast 0
+=4-98e743467fb1-6703fa76-35e-3fb0
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+R2
+!s110 1728389194
+VNih^RnYN2ji^8Y9[TEmPe3
+Z7 04 7 4 work fifo_tb fast 0
+=1-98e743467fb1-67052048-1-4b24
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+T_opt2
+R2
+!s110 1728398519
+VATSPbP]IzzmahzJboXJhK1
+R7
+=12-98e743467fb1-670544b7-83-28a8
+R3
+R4
+R5
+n@_opt2
+R6
+R1
+T_opt3
+R2
+!s110 1728476966
+VO00Jb98Q??Y4AXITg;K0i1
+R7
+=9-98e743467fb1-67067725-24f-29d4
+R3
+R4
+R5
+n@_opt3
+R6
+Xcoverage_svh_unit
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1728312059
+VF>CPBXQ_:YYMgE>=4JoKA1
+r1
+!s85 0
+!i10b 1
+!s100 ^[52]]WgQWeA0mz8c<RLG3
+IF>CPBXQ_:YYMgE>=4JoKA1
+!i103 1
+S1
+R1
+w1728274456
+8coverage.svh
+Z9 Fcoverage.svh
+!i122 8
+Z10 L0 1 0
+Z11 OL;L;2021.1;73
+31
+!s108 1728312059.000000
+!s107 test.svh|synchronous_fifo_pkg.svh|scoreboard.svh|item.svh|fifo_interface.svh|coverage.svh|
+!s90 coverage.svh|fifo_interface.svh|item.svh|scoreboard.svh|synchronous_fifo_pkg.svh|test.svh|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vfifo_tb
+R8
+Z13 DXx4 work 20 synchronous_fifo_pkg 0 22 hH`0<?M]9];]N4]_g3I2P3
+Z14 !s110 1728476963
+!i10b 1
+!s100 _N4d^N46TnznjzNd2Qh9L2
+IdGCThSS=0Z46;W709<HId2
+S1
+R1
+w1728473069
+Z15 8fifo_tb.sv
+Z16 Ffifo_tb.sv
+!i122 170
+Z17 L0 1 55
+Z18 VDg1SIo80bB@j0V0VzS_@n1
+R11
+r1
+!s85 0
+31
+Z19 !s108 1728476963.000000
+Z20 !s107 coverage.svh|scoreboard.svh|test.svh|item.svh|fifo_tb.sv|fifo_interface.svh|synchronous_fifo_pkg.svh|
+Z21 !s90 -reportprogress|300|-f|tb.f|
+!i113 0
+R12
+R5
+Yinf
+R8
+R13
+R14
+!i10b 1
+!s100 aIgVbVai:1SB=Nd?<Vm4X0
+I2z?k9biDD?@z0SXkYX@TT3
+S1
+R1
+w1728389466
+8fifo_interface.svh
+Ffifo_interface.svh
+!i122 170
+R10
+R18
+R11
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R5
+vsynchronous_fifo
+R14
+!i10b 1
+!s100 ID:6_Sa`]RjBCIb:@GX]22
+IEfchNF8kmJkSDR8?74TIZ3
+R1
+w1728422249
+8synchronous_fifo.v
+Fsynchronous_fifo.v
+!i122 169
+R17
+R18
+R11
+r1
+!s85 0
+31
+R19
+!s107 synchronous_fifo.v|
+!s90 -reportprogress|300|-f|dut.f|
+!i113 0
+R12
+R5
+Xsynchronous_fifo_pkg
+!s115 inf
+R8
+R14
+!i10b 1
+!s100 f4gGQX5=GKJmcXI`Q@U:10
+IhH`0<?M]9];]N4]_g3I2P3
+S1
+R1
+w1728476955
+8synchronous_fifo_pkg.svh
+Fsynchronous_fifo_pkg.svh
+Fitem.svh
+Ftest.svh
+Fscoreboard.svh
+R9
+!i122 170
+R10
+VhH`0<?M]9];]N4]_g3I2P3
+R11
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R5
+vtb
+R8
+DXx4 work 20 synchronous_fifo_pkg 0 22 ZB2ROc_TI76X3PUkN;DPC1
+!s110 1728313806
+!i10b 1
+!s100 fid9@[J54TDf9oj0;MEoN3
+I<J6Ai3IN;c@Z?4COCL3in1
+S1
+R1
+w1728313805
+R15
+R16
+!i122 12
+L0 1 38
+R18
+R11
+r1
+!s85 0
+31
+!s108 1728313805.000000
+!s107 fifo_tb.sv|
+!s90 fifo_tb.sv|
+!i113 0
+R12
+R5
